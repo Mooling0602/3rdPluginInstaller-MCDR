@@ -1,0 +1,15 @@
+{
+    "id": "third_party_plg_installer",
+    "version": "0.0.1",
+    "name": "3rdPluginInstaller",
+    "description": {
+        "en_us": "Third-party plugin installer for MCDReforged, use implies your compliance with the relevant agreements.",
+        "zh_cn": "适用于MCDReforged的第三方插件安装器，使用即代表你遵守相关协议。"
+    },
+    "dependencies": {
+        "mcdreforged": ">=2.1.0"
+    },
+    "author": "Mooling0602",
+    "link": "https://github.com/Mooling0602/3rdPluginInstaller-MCDR",
+    "entrypoint": "3rd_plg_installer.entry"
+}
