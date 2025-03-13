@@ -11,5 +11,6 @@
     },
     "author": "Mooling0602",
     "link": "https://github.com/Mooling0602/3rdPluginInstaller-MCDR",
-    "entrypoint": "3rd_plg_installer.entry"
+    "entrypoint": "third_party_plg_installer.entry",
+    "resources": ["lang"]
 }

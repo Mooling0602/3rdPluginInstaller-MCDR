@@ -1,0 +1,2 @@
+third_party_plg_installer:
+  on_load: Plugin is loaded!
